@@ -1,7 +1,7 @@
 # Problem #1: Cinema Reservation System 🎬
 
 **structured programming**
----
+--- Questions are here [Sp Questions](https://docs.google.com/document/d/1S-RAHet_lT5M8o9CTlBqjueL0e8hQjGK/edit?usp=drivesdk&ouid=101344017193046992819&rtpof=true&sd=true)
 
 ## 🚀 وصف البرنامج (The Project)
 
