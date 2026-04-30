@@ -28,5 +28,5 @@
 ---
 
 ## 🔗 روابط هامة (Links)
-my solution on Git hub(https://github.com/3MORA1/Continue-my-journey-/blob/main/Cinema_Reservation_System.cpp)
+[my solution on Git hub](https://github.com/3MORA1/Continue-my-journey-/blob/main/Cinema_Reservation_System.cpp)
 * **حل الدكتور (Professor's Solution):** [Doctor [Solution]](https://drive.google.com/file/d/1cphEs9raOJU7CHTr5LhgDs57uCOUYWGP/view?usp=drivesdk)
