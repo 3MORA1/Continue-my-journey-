@@ -1,7 +1,6 @@
 # Problem #1: Cinema Reservation System 🎬
 
-أهلاً بيكم! ده أول مشروع ليا في مادة الـ **Structured Programming**. 
-
+**structured programming**
 ---
 
 ## 🚀 وصف البرنامج (The Project)
