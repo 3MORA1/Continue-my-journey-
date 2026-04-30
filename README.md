@@ -1,7 +1,7 @@
 # Problem #1: Cinema Reservation System 🎬
 
 **structured programming**
---- Questions are here [Sp Questions](https://docs.google.com/document/d/1S-RAHet_lT5M8o9CTlBqjueL0e8hQjGK/edit?usp=drivesdk&ouid=101344017193046992819&rtpof=true&sd=true)
+--- Questions are here [Sp Questions](https://docs.google.com/document/d/1S-RAHet_lT5M8o9CTlBqjueL0e8hQjGK/edit)
 
 ## 🚀 وصف البرنامج (The Project)
 
@@ -32,8 +32,9 @@
 * **حل الدكتور (Professor's Solution):** [Doctor [Solution]](https://drive.google.com/file/d/1cphEs9raOJU7CHTr5LhgDs57uCOUYWGP/view?usp=drivesdk)
 
 
+
 Problem #2: House System (Nested Structs) 🏠
-​في المسألة دي، بدأت أطبق فكرة الـ Nested Structs (استخدام ستركيت جوه ستركيت تانية) عشان أمثل بيانات "بيت" كامل بكل تفاصيله.
+​في المسألة دي، بدأت أطبق فكرة الـ Nested Structs (استخدام ستركت جوه ستركت تانية) عشان أمثل بيانات "بيت" كامل بكل تفاصيله.
 ​📝 وصف المسألة (Problem Description)
 ​الهدف هو بناء برنامج يسجل بيانات بيت (Address, Area, Price) وكمان بيانات الغرف اللي جواه (Dimensions). البرنامج بيحسب السعر الإجمالي بناءً على مساحة البيت، مع افتراض إن سعر المتر $200.  
 ​🛠️ إيه اللي عملته في الكود؟ (My Approach)
@@ -41,3 +42,6 @@ Problem #2: House System (Nested Structs) 🏠
 ​بدل ما أعمل متغيرات كتير، نظمت البيانات في اتنين Structs:
 ​struct Room: بيشيل الطول والعرض (Dimensions).  
 ​struct House: بيشيل العنوان، عدد الغرف، السعر، وجواه Object من النوع Room.  
+
+
+Doctor [Solution]](https://drive.google.com/file/d/1qeL9lNOzV5FPA1B2oN1awbIszWjtUmZ2/view)
