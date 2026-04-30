@@ -30,5 +30,5 @@
 
 ## 🔗 روابط هامة (Links)
 
-* **كودي أنا (My Solution):** [main.cpp](./sheet_3_Structs.cpp)
-* **حل الدكتور (Professor's Solution):** [Doctor Solution](./Sheet%204%20Halls%20Reservation.cpp)
+* **كودي أنا (My Solution):** [main.cpp](./sheet_3_Structs.cpp
+* **حل الدكتور (Professor's Solution):** [Doctor [Solution]](https://drive.google.com/file/d/1cphEs9raOJU7CHTr5LhgDs57uCOUYWGP/view?usp=drivesdk)
