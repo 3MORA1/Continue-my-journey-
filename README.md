@@ -1,5 +1,5 @@
 # Problem #1: Cinema Reservation System 🎬
-**structured programming --- Questions are here [Sp Questions](https://github.com/3MORA1/Continue-my-journey-/blob/main/1000185038.jpg)**
+**structured programming --- Questions are here [Sp Questions](https://drive.google.com/file/d/1S-RAHet_lT5M8o9CTlBqjueL0e8hQjGK/view)**
 
 ## 🚀 وصف البرنامج (The Project)
 نظام بسيط بيخليك تدخل بيانات 3 قاعات سينما، وبعدين تحجز تذاكر. البرنامج بيتأكد لو فيه مكان فاضي (السعة 50 كرسي) وبيطلعلك رقم القاعة والباقي كام كرسي.
@@ -37,7 +37,7 @@
 *   **struct House:** من النوع Object بيشيل العنوان، عدد الغرف، السعر، وجواه Room.
 
 ## 🔗 روابط هامة (Links)
-*   **Doctor [Solution]: [Download Docx](https://drive.google.com/file/d/1qeL9lNOzV5FPA1B2oN1awblszWjtUmZ2/view)**
+*   **Doctor [Solution]: [Download Docx](https://drive.google.com/file/d/1qeL9lNOzV5FPA1B2oN1awbIszWjtUmZ2/view)**
 
 ---
 
@@ -57,7 +57,7 @@
 
 ## 🔗 روابط هامة (Links)
 *   **كودي للمسألة الثالثة: [sheet_3_Structs.cpp](./sheet_3_Structs.cpp)**
-*   **حل الدكتور للمقارنة: [Sheet 4 Student Status.cpp](./Sheet%204%20Student%20Status.cpp)**
+*   **حل الدكتور للمقارنة: [Sheet 4 Student Status.cpp](https://drive.google.com/file/d/18wTxE-CHMUQqJCauoYUi1YKJ3VQAuACS/view)**
 
 ---
 **المشروع ده جزء من تدريبات مادة الـ Structured Programming - كلية الحاسبات والمعلومات - جامعة عين شمس.**
