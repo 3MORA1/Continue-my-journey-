@@ -56,7 +56,7 @@
 *   **حل الدكتور:** استخدم دالة واحدة فقط لتحديث الحالة، بينما تمت عمليتي الإدخال والطباعة داخل الـ main.
 
 ## 🔗 روابط هامة (Links)
-*   **كودي للمسألة الثالثة: [sheet_3_Structs.cpp](./sheet_3_Structs.cpp)**
+*   **كودي للمسألة الثالثة: [sheet_3_Structs.cpp](https://github.com/3MORA1/Continue-my-journey-/blob/main/Student_status.cpp)**
 *   **حل الدكتور للمقارنة: [Sheet 4 Student Status.cpp](https://drive.google.com/file/d/18wTxE-CHMUQqJCauoYUi1YKJ3VQAuACS/view)**
 
 ---
