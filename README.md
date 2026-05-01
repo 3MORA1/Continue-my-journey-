@@ -21,7 +21,7 @@
 3. بيطبع النتيجة النهائية مرة واحدة بس بره الـ Loop.
 
 ## 🔗 روابط هامة (Links)
-*   **my solution on Git hub: [Sheet_3_Structs.cpp](./sheet_3_Structs.cpp)**
+*   **my solution on Git hub: [Sheet_3_Structs.cpp](https://github.com/3MORA1/Continue-my-journey-/blob/main/Cinema_Reservation_System.cpp)**
 
 ---
 
