@@ -190,3 +190,73 @@ This project provides a solution for Question 2 in Sheet 5, focusing on array el
 0
 1
 5
+
+
+# Sheet 5 Problem 3 - Bank System Simulation
+
+هذا المشروع هو محاكاة لنظام بنكي بسيط يسمح للمستخدم بإدارة رصيده من خلال عمليات الإيداع، السحب، وعرض الرصيد باستخدام لغة C++.
+
+This project simulates a simple bank system that allows users to manage their balance through deposit, withdraw, and display operations.
+
+
+---
+
+
+## 📝 وصف المسألة - Problem Task
+
+المطلوب هو بناء نظام بنكي يبدأ برصيد **1000 جنيه** ويقوم بالآتي:
+
+
+1. عرض قائمة خيارات (Menu) للمستخدم تشمل: الإيداع، السحب، وعرض الرصيد.
+
+
+2. عملية **الإيداع (Deposit)**: إضافة مبلغ محدد للرصيد الحالي.
+
+
+3. عملية **السحب (Withdraw)**: خصم مبلغ محدد من الرصيد الحالي.
+
+
+4. عملية **عرض الرصيد (Display balance)**: إظهار الرصيد الحالي في أي وقت.
+
+
+5. استمرار البرنامج في العمل حتى يقرر المستخدم التوقف (Loop).
+
+
+---
+
+
+## 🛠 تحليل الحل الخاص بي - My Implementation Analysis
+
+لقد استخدمت مفاهيم برمجية متقدمة لضمان عمل النظام بشكل صحيح:
+
+
+- **Pass by Reference (`&balance`)**: قمت بتمرير الرصيد كـ Reference داخل دالة الـ `operation` لضمان تحديث قيمته الأصلية في الـ `main` بعد كل عملية.
+
+
+- **Modular Design**: تقسيم الكود لدالة `menu()` للعرض ودالة `operation()` لمعالجة العمليات الحسابية.
+
+
+- **Do-While Loop**: لضمان استمرار عمل البرنامج وسؤال المستخدم "Another Operation? (Y/N)" بعد كل عملية.
+
+
+- **Switch-Case Structure**: للتبديل بين الخيارات المختلفة (1, 2, 3) بكفاءة عالية.
+
+
+---
+
+
+## 💻 مثال للتشغيل - Sample Output
+
+
+**Operation Flow:**
+
+```text
+Choose your operation:
+1. Deposit    2. Withdraw    3. Display balance
+2
+How much are you going to withdraw?
+300
+Another Operation? (Y/N)
+y
+
+Current Balance: 700
