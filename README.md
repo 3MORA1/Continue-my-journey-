@@ -175,10 +175,10 @@ This project provides a solution for Question 2 in Sheet 5, focusing on array el
 ---
 
 
-## 💻 مثال للتشغيل - Sample Output
+💻 مثال للتشغيل - Sample Output
 
 
-**Input (Your Array):**
+Input (Your Array):
 ```text
 3
 7
@@ -190,9 +190,9 @@ This project provides a solution for Question 2 in Sheet 5, focusing on array el
 0
 1
 5
+
+
 ---
-
-
 
 ## Sheet 5 Problem 3 - Bank System Simulation
 
