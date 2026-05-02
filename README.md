@@ -63,7 +63,7 @@
 **المشروع ده جزء من تدريبات مادة الـ Structured Programming - كلية الحاسبات والمعلومات - جامعة عين شمس.**
 
 
-# نظام معالجة المصفوفات - Array Negative-to-Positive Converter
+# Sheet 5 Problem 1 - Array Processor (C++)
 
 هذا المشروع يقدم حلولاً مختلفة لمسألة معالجة الأرقام السالبة في المصفوفة باستخدام لغة C++.
 
@@ -76,6 +76,7 @@ This project demonstrates different implementations for processing negative numb
 ## 📝 وصف المسألة - Problem Task
 
 المطلوب هو بناء برنامج يقوم بـ:
+
 
 1. قراءة مجموعة أرقام وتخزينها في المصفوفة (Array).
 
@@ -96,9 +97,12 @@ This project demonstrates different implementations for processing negative numb
 
 تعتمد على تقسيم البرنامج لـ 3 دوال (Modular Approach):
 
+
 - `input()` : للإدخال.
 
+
 - `invert()` : لمعالجة الأرقام.
+
 
 - `diplay()` : للطباعة.
 
@@ -107,7 +111,9 @@ This project demonstrates different implementations for processing negative numb
 
 تعتمد على دالة واحدة للمعالجة مع التأكد من حجم المصفوفة:
 
+
 - `check_Negation()` : تقوم بتبديل الإشارة مباشرة.
+
 
 - استخدام `#define SIZE 20` لضمان عدم تجاوز حدود الذاكرة.
 
