@@ -179,7 +179,7 @@ This project provides a solution for Question 2 in Sheet 5, focusing on array el
 
 
 Input (Your Array):
-```text
+
 3
 7
 0
@@ -190,7 +190,7 @@ Input (Your Array):
 0
 1
 5
-
+**
 
 ---
 
@@ -262,3 +262,4 @@ Another Operation? (Y/N)
 y
 
 Current Balance: 700
+```
