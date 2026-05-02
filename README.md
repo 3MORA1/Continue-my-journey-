@@ -128,3 +128,72 @@ This project demonstrates different implementations for processing negative numb
 ```text
 enter total no. of elements (1-20): 5
 Enter the numbers: 23, -33, -12, -9, 0
+
+
+
+# Sheet 5 Problem 2 - Array Symbol Replacer (C++)
+
+هذا المشروع يقدم حلاً للمسألة الثانية في Sheet 5، والتي تهدف إلى معالجة عناصر المصفوفة واستبدالها برموز بناءً على قيمتها (زوجي أو فردي).
+
+This project provides a solution for Question 2 in Sheet 5, focusing on array element manipulation and conditional symbol replacement.
+
+
+---
+
+
+## 📝 وصف المسألة - Problem Task
+
+المطلوب هو بناء برنامج يقوم بـ:
+
+1. قراءة 10 أرقام من المستخدم وتخزينها في مصفوفة (Array).
+
+
+2. استبدال كل رقم **زوجي (Even)** بنجمة `*`.
+
+
+3. استبدال كل رقم **فردي (Odd)** بعلامة مئوية `%`.
+
+
+4. ترك الرقم **صفر (Zero)** كما هو دون تغيير.
+
+
+5. عرض المصفوفة النهائية بعد التعديل.
+
+
+---
+
+
+## 🛠 تحليل الحل الخاص بي - My Implementation Analysis
+
+تعتمد طريقتي في الحل على تقسيم الكود إلى وظائف مستقلة لزيادة الكفاءة:
+
+- `#define size 10`: لتحديد حجم ثابت للمصفوفة كما هو مطلوب في السؤال.
+
+
+- `void input(char arr[])`: دالة مخصصة لاستقبال العناصر من المستخدم.
+
+
+- `void check(char arr[])`: الدالة الأساسية التي تحتوي على المنطق البرمجي (Logic) للتمييز بين الزوجي والفردي مع استثناء الصفر (`if arr[i] != '0'`).
+
+
+- `void display(char arr[])`: لطباعة النتيجة النهائية بشكل منظم.
+
+
+---
+
+
+## 💻 مثال للتشغيل - Sample Output
+
+
+**Input (Your Array):**
+```text
+3
+7
+0
+2
+6
+9
+3
+0
+1
+5
