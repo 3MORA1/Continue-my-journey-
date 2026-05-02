@@ -190,9 +190,11 @@ This project provides a solution for Question 2 in Sheet 5, focusing on array el
 0
 1
 5
+---
 
 
-# Sheet 5 Problem 3 - Bank System Simulation
+
+## Sheet 5 Problem 3 - Bank System Simulation
 
 هذا المشروع هو محاكاة لنظام بنكي بسيط يسمح للمستخدم بإدارة رصيده من خلال عمليات الإيداع، السحب، وعرض الرصيد باستخدام لغة C++.
 
