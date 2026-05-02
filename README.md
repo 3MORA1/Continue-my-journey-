@@ -121,17 +121,8 @@ This project demonstrates different implementations for processing negative numb
 ---
 
 
-💻 مثال للتشغيل - Sample Output
 
-
-**Input:**
-```text
-enter total no. of elements (1-20): 5
-Enter the numbers: 23, -33, -12, -9, 0
-
-
-
-## Sheet 5 Problem 2 - Array Symbol Replacer
+# Sheet 5 Problem 2 - Array Symbol Replacer
 
 هذا المشروع يقدم حلاً للمسألة الثانية في Sheet 5، والتي تهدف إلى معالجة عناصر المصفوفة واستبدالها برموز بناءً على قيمتها (زوجي أو فردي).
 
