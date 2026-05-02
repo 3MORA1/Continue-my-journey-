@@ -61,3 +61,64 @@
 
 ---
 **المشروع ده جزء من تدريبات مادة الـ Structured Programming - كلية الحاسبات والمعلومات - جامعة عين شمس.**
+
+
+# نظام معالجة المصفوفات - Array Negative-to-Positive Converter
+
+هذا المشروع يقدم حلولاً مختلفة لمسألة معالجة الأرقام السالبة في المصفوفة باستخدام لغة C++.
+
+This project demonstrates different implementations for processing negative numbers in an array using C++.
+
+
+---
+
+
+## 📝 وصف المسألة - Problem Task
+
+المطلوب هو بناء برنامج يقوم بـ:
+
+1. قراءة مجموعة أرقام وتخزينها في المصفوفة (Array).
+
+
+2. إنشاء دالة (Function) تمر على العناصر وتغير أي رقم سالب إلى موجب (Absolute Value).
+
+
+3. عرض المصفوفة بعد التحديث.
+
+
+---
+
+
+## 🛠 طرق الحل - Implementation Approaches
+
+
+### 1. الطريقة الموزعة (My Implementation):
+
+تعتمد على تقسيم البرنامج لـ 3 دوال (Modular Approach):
+
+- `input()` : للإدخال.
+
+- `invert()` : لمعالجة الأرقام.
+
+- `diplay()` : للطباعة.
+
+
+### 2. الطريقة الأكاديمية (Professor's Solution):
+
+تعتمد على دالة واحدة للمعالجة مع التأكد من حجم المصفوفة:
+
+- `check_Negation()` : تقوم بتبديل الإشارة مباشرة.
+
+- استخدام `#define SIZE 20` لضمان عدم تجاوز حدود الذاكرة.
+
+
+---
+
+
+## 💻 مثال للتشغيل - Sample Output
+
+
+**Input:**
+```text
+enter total no. of elements (1-20): 5
+Enter the numbers: 23, -33, -12, -9, 0
